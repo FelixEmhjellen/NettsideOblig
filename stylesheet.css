@@ -1,0 +1,74 @@
+﻿.title {
+text-align: center;
+font-family: Garamond;
+font-size: 100px;
+padding: 0px;
+margin: 0px;
+background-color: Snow;
+}
+
+body {
+background-color: DarkSeaGreen;
+}
+
+.description {
+text-align: center;
+font-size: 20px;
+opacity: 0.75;
+position: relative;
+top: -15px;
+background-color: Snow;
+}
+
+.navbar {
+text-align: center;
+}
+.navbar a {
+font-family: Garamond;
+font-size: 20px;
+font-weight: bold;
+text-align: right;
+padding-right: 50px;
+background-color: Silver;
+color: Black;
+text-decoration: none;
+}
+
+.navbar a:hover {
+background-color: FloralWhite;
+color: Black;
+}
+
+.navbar a.active {
+background-color: FloralWhite;
+}
+
+.fronttext {
+text-align: center;
+}
+
+.image {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 50px;
+}
+
+footer{
+padding:100px;
+}
+.footerimg {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.map {
+float:left;
+padding: 40px;
+}
+
+.maptext {
+float:middle;
+width:250px;
+}
