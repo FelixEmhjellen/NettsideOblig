@@ -4,11 +4,11 @@ font-family: Garamond;
 font-size: 100px;
 padding: 0px;
 margin: 0px;
-background-color: Snow;
+
 }
 
 body {
-background-color: DarkSeaGreen;
+background-color: lightgray;
 }
 
 .description {
@@ -35,12 +35,12 @@ text-decoration: none;
 }
 
 .navbar a:hover {
-background-color: FloralWhite;
+background-color: darkgray;
 color: Black;
 }
 
 .navbar a.active {
-background-color: FloralWhite;
+background-color: darkgray;
 }
 
 .fronttext {
