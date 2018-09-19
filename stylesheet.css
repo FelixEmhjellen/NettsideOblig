@@ -75,9 +75,12 @@ justify-content:flex-start;
 
 padding: 40px;
 display: flex;
+padding-left: 70px;
 }
 
 .maptext {
 width:250px;
 display: flex;
+padding-left: 70px;
+padding-top: 25px;
 }
