@@ -45,6 +45,10 @@ background-color: darkgray;
 
 .fronttext {
 text-align: center;
+margin-right: auto;
+margin-left: auto;
+line-height:1.5;
+width: 500px;
 
 }
 
@@ -74,14 +78,22 @@ justify-content:flex-start;
 .map {
 
 
-display: flex;
-padding-left: 200px;
+position: absolute;
+left: 70px;
 padding-top: 40px;
+padding-right: 100px;
 }
 
 .maptext {
-width:500px;
-display: flex;
-padding-left: 70px;
+width:400px;
+margin-right: 40px;
+margin-left: auto;
+padding-left: 40px;
 padding-top: 19px;
+line-height: 1.5;
+}
+.sketch {
+padding-top: 40px;
+position: absolute;
+right: 70px;
 }
